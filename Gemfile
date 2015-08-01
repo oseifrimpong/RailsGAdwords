@@ -16,6 +16,8 @@ gem 'google-adwords-api', '~> 0.14.0'
 
 gem 'oauth2'
 
+gem 'pg'
+
 
 
 # To use ActiveModel has_secure_password

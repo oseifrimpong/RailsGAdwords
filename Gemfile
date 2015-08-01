@@ -8,7 +8,7 @@ gem 'rails-api'
 gem 'spring', :group => :development
 
 
-gem 'sqlite3'
+#gem 'sqlite3'
 
 
 gem 'google-adwords-api', '~> 0.14.0'
